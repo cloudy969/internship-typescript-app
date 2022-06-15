@@ -1,0 +1,14 @@
+.wrapper {
+    width: 600px;
+    margin: 0 auto 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input {
+    max-width: 500px;
+}
+
+.btn {
+    padding: 5px 20px;
+}
